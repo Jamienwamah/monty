@@ -184,8 +184,6 @@ Tasks
 
 ### 0\. push, pall
 
-mandatory
-
 Implement the `push` and `pall` opcodes.
 
 **The push opcode**
@@ -224,9 +222,8 @@ julien@ubuntu:~/monty$
 
 -   GitHub repository: `monty`
 
-### 1\. pint
 
-mandatory
+### 1\. pint
 
 Implement the `pint` opcode.
 
@@ -257,9 +254,8 @@ julien@ubuntu:~/monty$
 
 -   GitHub repository: `monty`
 
-### 2\. pop
 
-mandatory
+### 2\. pop
 
 Implement the `pop` opcode.
 
@@ -297,9 +293,8 @@ julien@ubuntu:~/monty$
 
 -   GitHub repository: `monty`
 
-### 3\. swap
 
-mandatory
+### 3\. swap
 
 Implement the `swap` opcode.
 
@@ -333,9 +328,8 @@ julien@ubuntu:~/monty$
 
 -   GitHub repository: `monty`
 
-### 4\. add
 
-mandatory
+### 4\. add
 
 Implement the `add` opcode.
 
@@ -372,9 +366,8 @@ julien@ubuntu:~/monty$
 
 -   GitHub repository: `monty`
 
-### 5\. nop
 
-mandatory
+### 5\. nop
 
 Implement the `nop` opcode.
 
