@@ -654,3 +654,5 @@ Directory: bf
 File: 1003-mul.bf
   
 Copyright © 2022 ALX, All rights reserved.
+
+Name: Ikechukwu Nwamah
